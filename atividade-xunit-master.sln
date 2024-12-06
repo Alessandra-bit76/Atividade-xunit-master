@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atividade_imc_xunit", "atividade_imc_xunit\atividade_imc_xunit.csproj", "{22B2036E-0434-4644-B56C-4B5790EBE036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B2036E-0434-4644-B56C-4B5790EBE036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B2036E-0434-4644-B56C-4B5790EBE036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B2036E-0434-4644-B56C-4B5790EBE036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B2036E-0434-4644-B56C-4B5790EBE036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEDDFE2-F7CF-4741-80E6-F2835C4CB32F}
+	EndGlobalSection
+EndGlobal
